@@ -1,7 +1,7 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-# Date:
-# Register no.
+# Date:29/09/25
+# Register no.25009105
 # Aim: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
 
 #AI Tools Required:
@@ -14,3 +14,4 @@ Generate the outoput using more than one AI tool and based on the code generatio
 
 
 # Result: The corresponding Prompt is executed successfully.
+https://github.com/mspradeepmurugen-bit/Ex.No.6.git
